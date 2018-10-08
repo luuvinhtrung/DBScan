@@ -1,5 +1,5 @@
 """
-Vinh-Trung Luu for Sentiance Technical test
+Vinh-Trung Luu for Technical test
 """
 class Observation(object):
     """
